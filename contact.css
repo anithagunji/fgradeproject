@@ -1,0 +1,10 @@
+*{
+    font-family:'poppins',sans serif;
+}
+body{
+    background-image: url("c6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
